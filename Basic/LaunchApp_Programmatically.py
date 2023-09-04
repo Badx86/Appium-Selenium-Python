@@ -9,7 +9,7 @@ from appium.webdriver.appium_service import AppiumService
 appium_service = AppiumService()
 
 # Step 3 : Call Start method by using Appium Service class object
-appium_service.start()
+appium_service.start(args=['--base-path', '/wd/hub'])
 
 # Step 4 : Create "Desired Capabilities"
 desired_caps = {}
