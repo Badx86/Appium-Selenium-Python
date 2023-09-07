@@ -14,22 +14,35 @@ desired_caps['appActivity'] = 'com.code2lead.kwad.MainActivity'
 
 driver = webdriver.Remote("http://127.0.0.1:4723/wd/hub", desired_caps)
 
-ele_id = driver.find_element(AppiumBy.ID, "com.code2lead.kwad:id/EnterValue")
-ele_id.click()
+# ele_id = driver.find_element(AppiumBy.ID, "com.code2lead.kwad:id/EnterValue")
+# ele_id.click()
+#
+# time.sleep(2)
+#
+# ele_class = driver.find_element(AppiumBy.CLASS_NAME, "android.widget.EditText")
+# ele_class.send_keys("TestExample")
+#
+# submit_btn = driver.find_element(AppiumBy.CLASS_NAME, "android.widget.Button")
+# submit_btn.click()
+#
+# output_text_element = driver.find_element(AppiumBy.ID, "com.code2lead.kwad:id/Tv1")
+# actual_output_text = output_text_element.text
+#
+# print(f"Output text: {actual_output_text}")
+#
+# assert actual_output_text == "TestExample", f"Expected 'TestExample', but got '{actual_output_text}'"
+#
+# driver.quit()
 
-time.sleep(2)
+element = driver.find_elements(AppiumBy.CLASS_NAME, "android.widget.Button")
 
-ele_class = driver.find_element(AppiumBy.CLASS_NAME, "android.widget.EditText")
-ele_class.send_keys("TestExample")
+for i in element:
+    print(i.text)
 
-submit_btn = driver.find_element(AppiumBy.CLASS_NAME, "android.widget.Button")
-submit_btn.click()
-
-output_text_element = driver.find_element(AppiumBy.ID, "com.code2lead.kwad:id/Tv1")
-actual_output_text = output_text_element.text
-
-print(f"Output text: {actual_output_text}")
-
-assert actual_output_text == "TestExample", f"Expected 'TestExample', but got '{actual_output_text}'"
+for i in element:
+    button = i.text
+    if button == "ScrollView":
+        i.click()
+        break
 
 driver.quit()
