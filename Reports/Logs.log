@@ -1,0 +1,10 @@
+10/09/23 03:15:44 AM Sunday - CustomLoggerDemo - CRITICAL : This is Critical msg
+10/09/23 03:15:44 AM Sunday - CustomLoggerDemo - ERROR : This is Error msg
+10/09/23 03:15:44 AM Sunday - CustomLoggerDemo - WARNING : This is Warning msg
+10/09/23 03:15:44 AM Sunday - CustomLoggerDemo - INFO : This is Info msg
+10/09/23 03:15:44 AM Sunday - CustomLoggerDemo - DEBUG : This is Debug msg
+10/09/23 03:15:44 AM Sunday - CustomLoggerDemo - CRITICAL : This is Critical msg - 2
+10/09/23 03:15:44 AM Sunday - CustomLoggerDemo - ERROR : This is Error msg - 2
+10/09/23 03:15:44 AM Sunday - CustomLoggerDemo - WARNING : This is Warning msg - 2
+10/09/23 03:15:44 AM Sunday - CustomLoggerDemo - INFO : This is Info msg - 2
+10/09/23 03:15:44 AM Sunday - CustomLoggerDemo - DEBUG : This is Debug msg - 2
