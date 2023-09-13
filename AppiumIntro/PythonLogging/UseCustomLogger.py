@@ -1,4 +1,4 @@
-import PythonLogging.CustomLogger as cl
+import AppiumIntro.PythonLogging.CustomLogger as cl
 
 
 # Создаём класс CustomLoggerDemo для демонстрации пользовательского логирования

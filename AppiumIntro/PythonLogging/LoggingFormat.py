@@ -6,7 +6,7 @@
 import logging
 
 logging.basicConfig(format='%(asctime)s: %(levelname)s: %(message)s', filename='test2.log',
-    datefmt='%d/%m/%y %I:%M:%S %p %A', level=logging.DEBUG, filemode='a')  # %H:%M:%S -24h format, 'w' - overwrite
+                    datefmt='%d/%m/%y %I:%M:%S %p %A', level=logging.DEBUG, filemode='a')  # %H:%M:%S -24h format, 'w' - overwrite
 logging.critical("This is critical msg")
 logging.error("This is an error msg")
 logging.warning("This is a warning msg")
