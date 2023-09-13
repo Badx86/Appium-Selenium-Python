@@ -1,0 +1,10 @@
+14/09/23 03:09:43 AM Thursday - <module> - INFO : Launch App
+14/09/23 03:09:43 AM Thursday - BasePage - INFO : Save Screenshot to the Path: ../screenshots/Launch App_14_09_23_03_09_43.png
+14/09/23 03:09:43 AM Thursday - BasePage - INFO : Element with LocatorType: id and LocatorValue: com.code2lead.kwad:id/ContactUs is displayed
+14/09/23 03:09:43 AM Thursday - BasePage - INFO : Clicked on Element with LocatorType: id and LocatorValue: com.code2lead.kwad:id/ContactUs
+14/09/23 03:09:46 AM Thursday - BasePage - INFO : Send text on Element with LocatorType: id and LocatorValue: com.code2lead.kwad:id/Et2
+14/09/23 03:09:47 AM Thursday - BasePage - INFO : Send text on Element with LocatorType: id and LocatorValue: com.code2lead.kwad:id/Et3
+14/09/23 03:09:48 AM Thursday - BasePage - INFO : Send text on Element with LocatorType: id and LocatorValue: com.code2lead.kwad:id/Et6
+14/09/23 03:09:49 AM Thursday - BasePage - INFO : Send text on Element with LocatorType: id and LocatorValue: com.code2lead.kwad:id/Et7
+14/09/23 03:09:49 AM Thursday - BasePage - INFO : Clicked on Element with LocatorType: id and LocatorValue: com.code2lead.kwad:id/Btn2
+14/09/23 03:09:50 AM Thursday - BasePage - INFO : Save Screenshot to the Path: ../screenshots/Contact Us Form_14_09_23_03_09_49.png
