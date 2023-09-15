@@ -35,3 +35,4 @@ adb shell pm list packages   # Список установленных паке�
 adb shell dumpsys            # Информация о состоянии системы
 adb shell am start -n <package_name>/<activity_name>  # Запуск активности
 adb shell am force-stop <package_name>                # Остановка приложения
+adb shell dumpsys window windows                      # Информация о текущих окнах
