@@ -1,0 +1,5 @@
+[32mINFO    [0m BasePage:BasePage.py:99 Clicked on Element with LocatorType: id and LocatorValue: com.code2lead.kwad:id/Login
+[32mINFO    [0m BasePage:BasePage.py:117 Send text on Element with LocatorType: text and LocatorValue: Enter Email
+[32mINFO    [0m BasePage:BasePage.py:117 Send text on Element with LocatorType: text and LocatorValue: Enter Password
+[32mINFO    [0m BasePage:BasePage.py:99 Clicked on Element with LocatorType: text and LocatorValue: LOGIN
+[32mINFO    [0m BasePage:BasePage.py:141 Element with LocatorType: text and LocatorValue: Enter Admin is not displayed

@@ -119,6 +119,8 @@ class BasePage:
         except:
             self.log.info('Unable to send text on Element with LocatorType: ' + locatorType +
                           ' and LocatorValue: ' + locatorValue)
+            self.takeScreenshot(locatorType)
+            assert False
 
     def isDisplayed(self, locatorValue, locatorType='id'):
         """
@@ -138,6 +140,7 @@ class BasePage:
         except:
             self.log.info('Element with LocatorType: ' + locatorType +
                           ' and LocatorValue: ' + locatorValue + ' is not displayed')
+            self.takeScreenshot(locatorType)
             return False
 
     def screenShot(self, screenshotName):
@@ -154,3 +157,9 @@ class BasePage:
             self.log.info('Save Screenshot to the Path: ' + screenshotPath)
         except:
             self.log.info('Unable to save Screenshot to the Path: ' + screenshotPath)
+
+    def takeScreenshot(self, text):
+        allure.attach(self.driver.get_screenshot_as_png(), name=text, attachment_type=AttachmentType.PNG)
+
+    def keyCode(self, value):
+        self.driver.press_keycode(value)
