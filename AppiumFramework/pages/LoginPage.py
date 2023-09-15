@@ -7,7 +7,7 @@ class LoginPage(BasePage):
         super().__init__(driver)
         self.driver = driver
 
-    # Locators values 'Login Page' form
+    # Значения локаторов для формы 'Login Page'
     _loginButton = 'com.code2lead.kwad:id/Login'  # id
     _enterEmail = 'Enter Email'  # text
     _enterPassword = 'Enter Password'  # text

@@ -29,14 +29,16 @@ class BasePage:
         :param locatorType: Тип локатора (id, class, desc, index, text, xpath).
         :return: Возвращает найденный элемент или None.
         """
+        # Преобразование типа локатора к нижнему регистру для унификации
         locatorType = locatorType.lower()
         element = None
 
-        # Настройка явного ожидания
+        # Настройка явного ожидания с игнорированием определенных исключений
         wait = WebDriverWait(self.driver, 25, poll_frequency=1, ignored_exceptions=
         [ElementNotVisibleException, ElementNotSelectableException, NoSuchElementException])
 
         # Поиск элемента в зависимости от типа локатора
+        # Добавлены комментарии для каждого типа локатора для лучшего понимания
         if locatorType == 'id':
             element = wait.until(
                 lambda x: x.find_element(AppiumBy.ID, locatorValue))
@@ -159,7 +161,17 @@ class BasePage:
             self.log.info('Unable to save Screenshot to the Path: ' + screenshotPath)
 
     def takeScreenshot(self, text):
+        """
+        Добавление скриншота в отчет Allure.
+
+        :param text: Имя или описание скриншота, который будет отображаться в отчете Allure.
+        """
         allure.attach(self.driver.get_screenshot_as_png(), name=text, attachment_type=AttachmentType.PNG)
 
     def keyCode(self, value):
+        """
+        Симуляция нажатия клавиш на устройстве.
+
+        :param value: Код клавиши, который нужно нажать.
+        """
         self.driver.press_keycode(value)

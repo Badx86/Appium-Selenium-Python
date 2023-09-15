@@ -27,3 +27,43 @@
 15/09/23 06:41:20 PM Friday - BasePage - INFO : Element with LocatorType: text and LocatorValue: Enter Admin is displayed
 15/09/23 06:41:20 PM Friday - BasePage - INFO : Send text on Element with LocatorType: id and LocatorValue: com.code2lead.kwad:id/Edt_admin
 15/09/23 06:41:21 PM Friday - BasePage - INFO : Clicked on Element with LocatorType: id and LocatorValue: com.code2lead.kwad:id/Btn_admin_sub
+16/09/23 02:35:56 AM Saturday - BasePage - INFO : Clicked on Element with LocatorType: id and LocatorValue: com.code2lead.kwad:id/ContactUs
+16/09/23 02:35:58 AM Saturday - BasePage - INFO : Element with LocatorType: text and LocatorValue: Contact Us form is displayed
+16/09/23 02:35:59 AM Saturday - BasePage - INFO : Send text on Element with LocatorType: id and LocatorValue: com.code2lead.kwad:id/Et2
+16/09/23 02:36:00 AM Saturday - BasePage - INFO : Send text on Element with LocatorType: id and LocatorValue: com.code2lead.kwad:id/Et3
+16/09/23 02:36:00 AM Saturday - BasePage - INFO : Send text on Element with LocatorType: id and LocatorValue: com.code2lead.kwad:id/Et6
+16/09/23 02:36:01 AM Saturday - BasePage - INFO : Send text on Element with LocatorType: id and LocatorValue: com.code2lead.kwad:id/Et7
+16/09/23 02:36:02 AM Saturday - BasePage - INFO : Clicked on Element with LocatorType: id and LocatorValue: com.code2lead.kwad:id/Btn2
+16/09/23 02:36:58 AM Saturday - BasePage - INFO : Unable to click on Element with LocatorType: id and LocatorValue: com.code2lead.kwad:id/Login
+16/09/23 02:37:24 AM Saturday - BasePage - INFO : Unable to send text on Element with LocatorType: text and LocatorValue: Enter Email
+16/09/23 02:38:52 AM Saturday - BasePage - INFO : Clicked on Element with LocatorType: id and LocatorValue: com.code2lead.kwad:id/Login
+16/09/23 02:38:54 AM Saturday - BasePage - INFO : Send text on Element with LocatorType: text and LocatorValue: Enter Email
+16/09/23 02:38:55 AM Saturday - BasePage - INFO : Send text on Element with LocatorType: text and LocatorValue: Enter Password
+16/09/23 02:38:56 AM Saturday - BasePage - INFO : Clicked on Element with LocatorType: text and LocatorValue: LOGIN
+16/09/23 02:39:21 AM Saturday - BasePage - INFO : Element with LocatorType: text and LocatorValue: Enter Admin is not displayed
+16/09/23 02:39:24 AM Saturday - BasePage - INFO : Clicked on Element with LocatorType: id and LocatorValue: com.code2lead.kwad:id/Login
+16/09/23 02:39:27 AM Saturday - BasePage - INFO : Send text on Element with LocatorType: text and LocatorValue: Enter Email
+16/09/23 02:39:28 AM Saturday - BasePage - INFO : Send text on Element with LocatorType: text and LocatorValue: Enter Password
+16/09/23 02:39:29 AM Saturday - BasePage - INFO : Clicked on Element with LocatorType: text and LocatorValue: LOGIN
+16/09/23 02:39:30 AM Saturday - BasePage - INFO : Element with LocatorType: text and LocatorValue: Enter Admin is displayed
+16/09/23 02:39:31 AM Saturday - BasePage - INFO : Send text on Element with LocatorType: id and LocatorValue: com.code2lead.kwad:id/Edt_admin
+16/09/23 02:39:32 AM Saturday - BasePage - INFO : Clicked on Element with LocatorType: id and LocatorValue: com.code2lead.kwad:id/Btn_admin_sub
+16/09/23 02:40:56 AM Saturday - BasePage - INFO : Clicked on Element with LocatorType: id and LocatorValue: com.code2lead.kwad:id/ContactUs
+16/09/23 02:40:57 AM Saturday - BasePage - INFO : Element with LocatorType: text and LocatorValue: Contact Us form is displayed
+16/09/23 02:40:59 AM Saturday - BasePage - INFO : Send text on Element with LocatorType: id and LocatorValue: com.code2lead.kwad:id/Et2
+16/09/23 02:40:59 AM Saturday - BasePage - INFO : Send text on Element with LocatorType: id and LocatorValue: com.code2lead.kwad:id/Et3
+16/09/23 02:41:00 AM Saturday - BasePage - INFO : Send text on Element with LocatorType: id and LocatorValue: com.code2lead.kwad:id/Et6
+16/09/23 02:41:00 AM Saturday - BasePage - INFO : Send text on Element with LocatorType: id and LocatorValue: com.code2lead.kwad:id/Et7
+16/09/23 02:41:01 AM Saturday - BasePage - INFO : Clicked on Element with LocatorType: id and LocatorValue: com.code2lead.kwad:id/Btn2
+16/09/23 02:41:15 AM Saturday - BasePage - INFO : Clicked on Element with LocatorType: id and LocatorValue: com.code2lead.kwad:id/Login
+16/09/23 02:41:17 AM Saturday - BasePage - INFO : Send text on Element with LocatorType: text and LocatorValue: Enter Email
+16/09/23 02:41:19 AM Saturday - BasePage - INFO : Send text on Element with LocatorType: text and LocatorValue: Enter Password
+16/09/23 02:41:20 AM Saturday - BasePage - INFO : Clicked on Element with LocatorType: text and LocatorValue: LOGIN
+16/09/23 02:41:46 AM Saturday - BasePage - INFO : Element with LocatorType: text and LocatorValue: Enter Admin is not displayed
+16/09/23 02:41:48 AM Saturday - BasePage - INFO : Clicked on Element with LocatorType: id and LocatorValue: com.code2lead.kwad:id/Login
+16/09/23 02:41:50 AM Saturday - BasePage - INFO : Send text on Element with LocatorType: text and LocatorValue: Enter Email
+16/09/23 02:41:51 AM Saturday - BasePage - INFO : Send text on Element with LocatorType: text and LocatorValue: Enter Password
+16/09/23 02:41:51 AM Saturday - BasePage - INFO : Clicked on Element with LocatorType: text and LocatorValue: LOGIN
+16/09/23 02:41:54 AM Saturday - BasePage - INFO : Element with LocatorType: text and LocatorValue: Enter Admin is displayed
+16/09/23 02:41:54 AM Saturday - BasePage - INFO : Send text on Element with LocatorType: id and LocatorValue: com.code2lead.kwad:id/Edt_admin
+16/09/23 02:41:55 AM Saturday - BasePage - INFO : Clicked on Element with LocatorType: id and LocatorValue: com.code2lead.kwad:id/Btn_admin_sub

@@ -3,11 +3,19 @@ import AppiumFramework.utils.CustomLogger as cl
 
 
 class ContactForm(BasePage):
+    """
+    Класс для работы с формой контактов в мобильном приложении.
+    """
     def __init__(self, driver):
+        """
+        Инициализация объекта ContactForm.
+
+        :param driver: Драйвер для управления мобильным приложением.
+        """
         super().__init__(driver)
         self.driver = driver
 
-    # Locators values 'Contact Us Form'
+    # Значения локаторов для формы "Contact Us"
     _contactUsButton = 'com.code2lead.kwad:id/ContactUs'  # id
     _pageTitle = 'Contact Us form'  # text
     _inputName = 'com.code2lead.kwad:id/Et2'
