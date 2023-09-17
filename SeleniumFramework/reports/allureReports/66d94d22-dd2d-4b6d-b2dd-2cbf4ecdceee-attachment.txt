@@ -1,0 +1,8 @@
+[32mINFO    [0m WebDriverClass:DriverClass.py:13 Chrome Driver is initializing
+[32mINFO    [0m BasePage:BasePage.py:20 Web Page Launched with URL: http://www.dummypoint.com/
+[32mINFO    [0m BasePage:BasePage.py:68 WebElement found with locator value: //span[normalize-space()='Selenium Template'] using locatorType: xpath
+[32mINFO    [0m BasePage:BasePage.py:80 Clicked on WebElement with locator value: //span[normalize-space()='Selenium Template'] using locatorType: xpath
+[32mINFO    [0m BasePage:BasePage.py:68 WebElement found with locator value: a[href='Form.html'] using locatorType: css
+[32mINFO    [0m BasePage:BasePage.py:80 Clicked on WebElement with locator value: a[href='Form.html'] using locatorType: css
+[32mINFO    [0m BasePage:BasePage.py:68 WebElement found with locator value: //div[@class="col-md-6 col-md-offset-3"] using locatorType: xpath
+[32mINFO    [0m BasePage:BasePage.py:122 WebElement is Displayed on web page with locator value //div[@class="col-md-6 col-md-offset-3"] using locatorType xpath

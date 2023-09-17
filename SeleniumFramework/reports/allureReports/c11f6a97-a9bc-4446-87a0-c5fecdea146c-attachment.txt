@@ -1,0 +1,18 @@
+[32mINFO    [0m BasePage:BasePage.py:68 WebElement found with locator value: name using locatorType: id
+[32mINFO    [0m BasePage:BasePage.py:92 Sent the text: ExampleName in WebElement with locator value: name using locatorType: id
+[32mINFO    [0m BasePage:BasePage.py:68 WebElement found with locator value: email using locatorType: id
+[32mINFO    [0m BasePage:BasePage.py:92 Sent the text: example@email.com in WebElement with locator value: email using locatorType: id
+[32mINFO    [0m BasePage:BasePage.py:68 WebElement found with locator value: (//input[@type='radio'])[1] using locatorType: xpath
+[32mINFO    [0m BasePage:BasePage.py:80 Clicked on WebElement with locator value: (//input[@type='radio'])[1] using locatorType: xpath
+[32mINFO    [0m BasePage:BasePage.py:68 WebElement found with locator value: message using locatorType: id
+[32mINFO    [0m BasePage:BasePage.py:92 Sent the text: Example Message in WebElement with locator value: message using locatorType: id
+[32mINFO    [0m BasePage:BasePage.py:68 WebElement found with locator value: captcha_image using locatorType: id
+[32mINFO    [0m BasePage:BasePage.py:106 Get the text: SGH456 from WebElement with locator value: captcha_image using locatorType: id
+[32mINFO    [0m BasePage:BasePage.py:68 WebElement found with locator value: captcha_image using locatorType: id
+[32mINFO    [0m BasePage:BasePage.py:106 Get the text: SGH456 from WebElement with locator value: captcha_image using locatorType: id
+[32mINFO    [0m BasePage:BasePage.py:68 WebElement found with locator value: captcha using locatorType: id
+[32mINFO    [0m BasePage:BasePage.py:92 Sent the text: SGH456 in WebElement with locator value: captcha using locatorType: id
+[32mINFO    [0m BasePage:BasePage.py:68 WebElement found with locator value: btnContactUs using locatorType: id
+[32mINFO    [0m BasePage:BasePage.py:138 Scrolled to WebElement with locator value btnContactUs using locatorType id
+[32mINFO    [0m BasePage:BasePage.py:68 WebElement found with locator value: btnContactUs using locatorType: id
+[32mINFO    [0m BasePage:BasePage.py:80 Clicked on WebElement with locator value: btnContactUs using locatorType: id

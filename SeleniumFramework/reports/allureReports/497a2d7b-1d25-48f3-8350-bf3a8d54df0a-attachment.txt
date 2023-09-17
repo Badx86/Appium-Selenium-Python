@@ -1,0 +1,4 @@
+[32mINFO    [0m BasePage:BasePage.py:70 WebElement found with locator value: user_input using locatorType: id
+[32mINFO    [0m BasePage:BasePage.py:97 Sent the text: Example Text in WebElement with locator value: user_input using locatorType: id
+[32mINFO    [0m BasePage:BasePage.py:70 WebElement found with locator value: submitbutton using locatorType: id
+[32mINFO    [0m BasePage:BasePage.py:84 Clicked on WebElement with locator value: submitbutton using locatorType: id

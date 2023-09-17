@@ -1,0 +1,128 @@
+18/09/23 01:33:08 AM Monday - WebDriverClass - INFO : Chrome Driver is initializing
+18/09/23 01:33:12 AM Monday - BasePage - INFO : Web Page Launched with URL: http://www.dummypoint.com/
+18/09/23 01:33:12 AM Monday - BasePage - INFO : WebElement found with locator value: //span[normalize-space()='Selenium Template'] using locatorType: xpath
+18/09/23 01:33:12 AM Monday - BasePage - INFO : Clicked on WebElement with locator value: //span[normalize-space()='Selenium Template'] using locatorType: xpath
+18/09/23 01:33:13 AM Monday - BasePage - INFO : WebElement found with locator value: a[href='Form.html'] using locatorType: css
+18/09/23 01:33:14 AM Monday - BasePage - INFO : Clicked on WebElement with locator value: a[href='Form.html'] using locatorType: css
+18/09/23 01:33:14 AM Monday - BasePage - INFO : WebElement found with locator value: //div[@class="col-md-6 col-md-offset-3"] using locatorType: xpath
+18/09/23 01:33:14 AM Monday - BasePage - INFO : WebElement is Displayed on web page with locator value //div[@class="col-md-6 col-md-offset-3"] using locatorType xpath
+18/09/23 01:33:14 AM Monday - BasePage - INFO : WebElement found with locator value: name using locatorType: id
+18/09/23 01:33:14 AM Monday - BasePage - INFO : Sent the text: ExampleName in WebElement with locator value: name using locatorType: id
+18/09/23 01:33:14 AM Monday - BasePage - INFO : WebElement found with locator value: email using locatorType: id
+18/09/23 01:33:14 AM Monday - BasePage - INFO : Sent the text: example@email.com in WebElement with locator value: email using locatorType: id
+18/09/23 01:33:14 AM Monday - BasePage - INFO : WebElement found with locator value: (//input[@type='radio'])[1] using locatorType: xpath
+18/09/23 01:33:14 AM Monday - BasePage - INFO : Clicked on WebElement with locator value: (//input[@type='radio'])[1] using locatorType: xpath
+18/09/23 01:33:14 AM Monday - BasePage - INFO : WebElement found with locator value: message using locatorType: id
+18/09/23 01:33:14 AM Monday - BasePage - INFO : Sent the text: Example Message in WebElement with locator value: message using locatorType: id
+18/09/23 01:33:14 AM Monday - BasePage - INFO : WebElement found with locator value: captcha_image using locatorType: id
+18/09/23 01:33:14 AM Monday - BasePage - INFO : Get the text: SGH456 from WebElement with locator value: captcha_image using locatorType: id
+18/09/23 01:33:14 AM Monday - BasePage - INFO : WebElement found with locator value: captcha_image using locatorType: id
+18/09/23 01:33:14 AM Monday - BasePage - INFO : Get the text: SGH456 from WebElement with locator value: captcha_image using locatorType: id
+18/09/23 01:33:14 AM Monday - BasePage - INFO : WebElement found with locator value: captcha using locatorType: id
+18/09/23 01:33:14 AM Monday - BasePage - INFO : Sent the text: SGH456 in WebElement with locator value: captcha using locatorType: id
+18/09/23 01:33:14 AM Monday - BasePage - INFO : WebElement found with locator value: btnContactUs using locatorType: id
+18/09/23 01:33:14 AM Monday - BasePage - INFO : Scrolled to WebElement with locator value btnContactUs using locatorType id
+18/09/23 01:33:15 AM Monday - BasePage - INFO : WebElement found with locator value: btnContactUs using locatorType: id
+18/09/23 01:33:15 AM Monday - BasePage - INFO : Clicked on WebElement with locator value: btnContactUs using locatorType: id
+18/09/23 01:42:41 AM Monday - WebDriverClass - INFO : Chrome Driver is initializing
+18/09/23 01:42:43 AM Monday - BasePage - INFO : Web Page Launched with URL: http://www.dummypoint.com/
+18/09/23 01:42:58 AM Monday - BasePage - INFO : WebElement found with locator value: name using locatorType: id
+18/09/23 01:42:58 AM Monday - BasePage - INFO : Sent the text: ExampleName in WebElement with locator value: name using locatorType: id
+18/09/23 01:43:24 AM Monday - BasePage - ERROR : WebElement not found with locator value: e666mail using locatorType: id
+18/09/23 01:43:24 AM Monday - BasePage - ERROR : Unable to Sent the text: example@email.com in WebElement with locator value: e666mailusing locatorType: id
+18/09/23 01:43:35 AM Monday - WebDriverClass - INFO : Chrome Driver is initializing
+18/09/23 01:43:37 AM Monday - BasePage - INFO : Web Page Launched with URL: http://www.dummypoint.com/
+18/09/23 01:43:37 AM Monday - BasePage - INFO : WebElement found with locator value: //span[normalize-space()='Selenium Template'] using locatorType: xpath
+18/09/23 01:43:37 AM Monday - BasePage - INFO : Clicked on WebElement with locator value: //span[normalize-space()='Selenium Template'] using locatorType: xpath
+18/09/23 01:43:39 AM Monday - BasePage - INFO : WebElement found with locator value: a[href='Form.html'] using locatorType: css
+18/09/23 01:43:40 AM Monday - BasePage - INFO : Clicked on WebElement with locator value: a[href='Form.html'] using locatorType: css
+18/09/23 01:43:40 AM Monday - BasePage - INFO : WebElement found with locator value: //div[@class="col-md-6 col-md-offset-3"] using locatorType: xpath
+18/09/23 01:43:40 AM Monday - BasePage - INFO : WebElement is Displayed on web page with locator value //div[@class="col-md-6 col-md-offset-3"] using locatorType xpath
+18/09/23 01:44:47 AM Monday - WebDriverClass - INFO : Chrome Driver is initializing
+18/09/23 01:44:49 AM Monday - BasePage - INFO : Web Page Launched with URL: http://www.dummypoint.com/
+18/09/23 01:44:49 AM Monday - BasePage - INFO : WebElement found with locator value: //span[normalize-space()='Selenium Template'] using locatorType: xpath
+18/09/23 01:44:49 AM Monday - BasePage - INFO : Clicked on WebElement with locator value: //span[normalize-space()='Selenium Template'] using locatorType: xpath
+18/09/23 01:44:51 AM Monday - BasePage - INFO : WebElement found with locator value: a[href='Form.html'] using locatorType: css
+18/09/23 01:44:52 AM Monday - BasePage - INFO : Clicked on WebElement with locator value: a[href='Form.html'] using locatorType: css
+18/09/23 01:44:52 AM Monday - BasePage - INFO : WebElement found with locator value: //div[@class="col-md-6 col-md-offset-3"] using locatorType: xpath
+18/09/23 01:44:52 AM Monday - BasePage - INFO : WebElement is Displayed on web page with locator value //div[@class="col-md-6 col-md-offset-3"] using locatorType xpath
+18/09/23 01:44:52 AM Monday - BasePage - INFO : WebElement found with locator value: name using locatorType: id
+18/09/23 01:44:52 AM Monday - BasePage - INFO : Sent the text: ExampleName in WebElement with locator value: name using locatorType: id
+18/09/23 01:45:17 AM Monday - BasePage - ERROR : WebElement not found with locator value: e666mail using locatorType: id
+18/09/23 01:45:18 AM Monday - BasePage - ERROR : Unable to Sent the text: example@email.com in WebElement with locator value: e666mailusing locatorType: id
+18/09/23 02:03:24 AM Monday - WebDriverClass - INFO : Chrome Driver is initializing
+18/09/23 02:03:26 AM Monday - BasePage - INFO : Web Page Launched with URL: http://www.dummypoint.com/
+18/09/23 02:03:30 AM Monday - BasePage - ERROR : WebElement not found with locator value: user_input using locatorType: id
+18/09/23 02:03:30 AM Monday - BasePage - ERROR : Unable to Sent the text: Code2Lead in WebElement with locator value: user_inputusing locatorType: id
+18/09/23 02:05:20 AM Monday - WebDriverClass - INFO : Chrome Driver is initializing
+18/09/23 02:05:22 AM Monday - BasePage - INFO : Web Page Launched with URL: http://www.dummypoint.com/
+18/09/23 02:05:29 AM Monday - BasePage - INFO : WebElement found with locator value: user_input using locatorType: id
+18/09/23 02:05:29 AM Monday - BasePage - INFO : Sent the text: Code2Lead in WebElement with locator value: user_input using locatorType: id
+18/09/23 02:05:29 AM Monday - BasePage - INFO : WebElement found with locator value: submitbutton using locatorType: id
+18/09/23 02:05:29 AM Monday - BasePage - INFO : Clicked on WebElement with locator value: submitbutton using locatorType: id
+18/09/23 02:07:00 AM Monday - WebDriverClass - INFO : Chrome Driver is initializing
+18/09/23 02:07:02 AM Monday - BasePage - INFO : Web Page Launched with URL: http://www.dummypoint.com/
+18/09/23 02:07:28 AM Monday - BasePage - ERROR : WebElement not found with locator value: user_input using locatorType: id
+18/09/23 02:07:28 AM Monday - BasePage - ERROR : Unable to Sent the text: Code2Lead in WebElement with locator value: user_inputusing locatorType: id
+18/09/23 02:09:57 AM Monday - WebDriverClass - INFO : Chrome Driver is initializing
+18/09/23 02:09:58 AM Monday - BasePage - INFO : Web Page Launched with URL: http://www.dummypoint.com/
+18/09/23 02:09:58 AM Monday - BasePage - INFO : WebElement found with locator value: //span[normalize-space()='Selenium Template'] using locatorType: xpath
+18/09/23 02:09:58 AM Monday - BasePage - INFO : Clicked on WebElement with locator value: //span[normalize-space()='Selenium Template'] using locatorType: xpath
+18/09/23 02:10:00 AM Monday - BasePage - INFO : WebElement found with locator value: a[href="seleniumtemplate.html"] using locatorType: css
+18/09/23 02:10:01 AM Monday - BasePage - INFO : Clicked on WebElement with locator value: a[href="seleniumtemplate.html"] using locatorType: css
+18/09/23 02:10:15 AM Monday - WebDriverClass - INFO : Chrome Driver is initializing
+18/09/23 02:10:17 AM Monday - BasePage - INFO : Web Page Launched with URL: http://www.dummypoint.com/
+18/09/23 02:10:17 AM Monday - BasePage - INFO : WebElement found with locator value: //span[normalize-space()='Selenium Template'] using locatorType: xpath
+18/09/23 02:10:17 AM Monday - BasePage - INFO : Clicked on WebElement with locator value: //span[normalize-space()='Selenium Template'] using locatorType: xpath
+18/09/23 02:10:19 AM Monday - BasePage - INFO : WebElement found with locator value: a[href="seleniumtemplate.html"] using locatorType: css
+18/09/23 02:10:19 AM Monday - BasePage - INFO : Clicked on WebElement with locator value: a[href="seleniumtemplate.html"] using locatorType: css
+18/09/23 02:10:19 AM Monday - BasePage - INFO : WebElement found with locator value: user_input using locatorType: id
+18/09/23 02:10:19 AM Monday - BasePage - INFO : Sent the text: Example Text in WebElement with locator value: user_input using locatorType: id
+18/09/23 02:10:20 AM Monday - BasePage - INFO : WebElement found with locator value: submitbutton using locatorType: id
+18/09/23 02:10:20 AM Monday - BasePage - INFO : Clicked on WebElement with locator value: submitbutton using locatorType: id
+18/09/23 02:11:35 AM Monday - WebDriverClass - INFO : Chrome Driver is initializing
+18/09/23 02:11:36 AM Monday - BasePage - INFO : Web Page Launched with URL: http://www.dummypoint.com/
+18/09/23 02:11:36 AM Monday - BasePage - INFO : WebElement found with locator value: //span[normalize-space()='Selenium Template'] using locatorType: xpath
+18/09/23 02:11:36 AM Monday - BasePage - INFO : Clicked on WebElement with locator value: //span[normalize-space()='Selenium Template'] using locatorType: xpath
+18/09/23 02:11:38 AM Monday - BasePage - INFO : WebElement found with locator value: a[href="seleniumtemplate.html"] using locatorType: css
+18/09/23 02:11:39 AM Monday - BasePage - INFO : Clicked on WebElement with locator value: a[href="seleniumtemplate.html"] using locatorType: css
+18/09/23 02:11:39 AM Monday - BasePage - INFO : WebElement found with locator value: user_input using locatorType: id
+18/09/23 02:11:39 AM Monday - BasePage - INFO : Sent the text: Example Text in WebElement with locator value: user_input using locatorType: id
+18/09/23 02:11:39 AM Monday - BasePage - INFO : WebElement found with locator value: submitbutton using locatorType: id
+18/09/23 02:11:39 AM Monday - BasePage - INFO : Clicked on WebElement with locator value: submitbutton using locatorType: id
+18/09/23 02:18:03 AM Monday - WebDriverClass - INFO : Chrome Driver is initializing
+18/09/23 02:18:05 AM Monday - BasePage - INFO : Web Page Launched with URL: http://www.dummypoint.com/
+18/09/23 02:18:05 AM Monday - BasePage - INFO : WebElement found with locator value: //span[normalize-space()='Selenium Template'] using locatorType: xpath
+18/09/23 02:18:05 AM Monday - BasePage - INFO : Clicked on WebElement with locator value: //span[normalize-space()='Selenium Template'] using locatorType: xpath
+18/09/23 02:18:07 AM Monday - BasePage - INFO : WebElement found with locator value: a[href='Form.html'] using locatorType: css
+18/09/23 02:18:08 AM Monday - BasePage - INFO : Clicked on WebElement with locator value: a[href='Form.html'] using locatorType: css
+18/09/23 02:18:08 AM Monday - BasePage - INFO : WebElement found with locator value: //div[@class="col-md-6 col-md-offset-3"] using locatorType: xpath
+18/09/23 02:18:08 AM Monday - BasePage - INFO : WebElement is Displayed on web page with locator value //div[@class="col-md-6 col-md-offset-3"] using locatorType xpath
+18/09/23 02:18:08 AM Monday - BasePage - INFO : WebElement found with locator value: name using locatorType: id
+18/09/23 02:18:08 AM Monday - BasePage - INFO : Sent the text: ExampleName in WebElement with locator value: name using locatorType: id
+18/09/23 02:18:08 AM Monday - BasePage - INFO : WebElement found with locator value: email using locatorType: id
+18/09/23 02:18:08 AM Monday - BasePage - INFO : Sent the text: example@email.com in WebElement with locator value: email using locatorType: id
+18/09/23 02:18:08 AM Monday - BasePage - INFO : WebElement found with locator value: (//input[@type='radio'])[1] using locatorType: xpath
+18/09/23 02:18:08 AM Monday - BasePage - INFO : Clicked on WebElement with locator value: (//input[@type='radio'])[1] using locatorType: xpath
+18/09/23 02:18:08 AM Monday - BasePage - INFO : WebElement found with locator value: message using locatorType: id
+18/09/23 02:18:09 AM Monday - BasePage - INFO : Sent the text: Example Message in WebElement with locator value: message using locatorType: id
+18/09/23 02:18:09 AM Monday - BasePage - INFO : WebElement found with locator value: captcha_image using locatorType: id
+18/09/23 02:18:09 AM Monday - BasePage - INFO : Get the text: SGH456 from WebElement with locator value: captcha_image using locatorType: id
+18/09/23 02:18:09 AM Monday - BasePage - INFO : WebElement found with locator value: captcha_image using locatorType: id
+18/09/23 02:18:09 AM Monday - BasePage - INFO : Get the text: SGH456 from WebElement with locator value: captcha_image using locatorType: id
+18/09/23 02:18:09 AM Monday - BasePage - INFO : WebElement found with locator value: captcha using locatorType: id
+18/09/23 02:18:09 AM Monday - BasePage - INFO : Sent the text: SGH456 in WebElement with locator value: captcha using locatorType: id
+18/09/23 02:18:09 AM Monday - BasePage - INFO : WebElement found with locator value: btnContactUs using locatorType: id
+18/09/23 02:18:09 AM Monday - BasePage - INFO : Scrolled to WebElement with locator value btnContactUs using locatorType id
+18/09/23 02:18:09 AM Monday - BasePage - INFO : WebElement found with locator value: btnContactUs using locatorType: id
+18/09/23 02:18:09 AM Monday - BasePage - INFO : Clicked on WebElement with locator value: btnContactUs using locatorType: id
+18/09/23 02:18:13 AM Monday - WebDriverClass - INFO : Chrome Driver is initializing
+18/09/23 02:18:15 AM Monday - BasePage - INFO : Web Page Launched with URL: http://www.dummypoint.com/
+18/09/23 02:18:15 AM Monday - BasePage - INFO : WebElement found with locator value: //span[normalize-space()='Selenium Template'] using locatorType: xpath
+18/09/23 02:18:15 AM Monday - BasePage - INFO : Clicked on WebElement with locator value: //span[normalize-space()='Selenium Template'] using locatorType: xpath
+18/09/23 02:18:17 AM Monday - BasePage - INFO : WebElement found with locator value: a[href="seleniumtemplate.html"] using locatorType: css
+18/09/23 02:18:17 AM Monday - BasePage - INFO : Clicked on WebElement with locator value: a[href="seleniumtemplate.html"] using locatorType: css
+18/09/23 02:18:17 AM Monday - BasePage - INFO : WebElement found with locator value: user_input using locatorType: id
+18/09/23 02:18:18 AM Monday - BasePage - INFO : Sent the text: Example Text in WebElement with locator value: user_input using locatorType: id
+18/09/23 02:18:18 AM Monday - BasePage - INFO : WebElement found with locator value: submitbutton using locatorType: id
+18/09/23 02:18:18 AM Monday - BasePage - INFO : Clicked on WebElement with locator value: submitbutton using locatorType: id

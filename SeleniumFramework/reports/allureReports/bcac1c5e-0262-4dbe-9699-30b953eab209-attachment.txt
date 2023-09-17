@@ -1,0 +1,142 @@
+  File "C:\Users\мвидео\AppData\Local\Programs\Python\Python39\lib\runpy.py", line 197, in _run_module_as_main
+    return _run_code(code, main_globals, None,
+  File "C:\Users\мвидео\AppData\Local\Programs\Python\Python39\lib\runpy.py", line 87, in _run_code
+    exec(code, run_globals)
+  File "C:\Users\мвидео\PycharmProjects\Appium-Selenium-Python\venv\Scripts\pytest.exe\__main__.py", line 7, in <module>
+    sys.exit(console_main())
+  File "C:\Users\мвидео\PycharmProjects\Appium-Selenium-Python\venv\lib\site-packages\_pytest\config\__init__.py", line 192, in console_main
+    code = main()
+  File "C:\Users\мвидео\PycharmProjects\Appium-Selenium-Python\venv\lib\site-packages\_pytest\config\__init__.py", line 169, in main
+    ret: Union[ExitCode, int] = config.hook.pytest_cmdline_main(
+  File "C:\Users\мвидео\PycharmProjects\Appium-Selenium-Python\venv\lib\site-packages\pluggy\_hooks.py", line 493, in __call__
+    return self._hookexec(self.name, self._hookimpls, kwargs, firstresult)
+  File "C:\Users\мвидео\PycharmProjects\Appium-Selenium-Python\venv\lib\site-packages\pluggy\_manager.py", line 115, in _hookexec
+    return self._inner_hookexec(hook_name, methods, kwargs, firstresult)
+  File "C:\Users\мвидео\PycharmProjects\Appium-Selenium-Python\venv\lib\site-packages\pluggy\_callers.py", line 77, in _multicall
+    res = hook_impl.function(*args)
+  File "C:\Users\мвидео\PycharmProjects\Appium-Selenium-Python\venv\lib\site-packages\_pytest\main.py", line 318, in pytest_cmdline_main
+    return wrap_session(config, _main)
+  File "C:\Users\мвидео\PycharmProjects\Appium-Selenium-Python\venv\lib\site-packages\_pytest\main.py", line 271, in wrap_session
+    session.exitstatus = doit(config, session) or 0
+  File "C:\Users\мвидео\PycharmProjects\Appium-Selenium-Python\venv\lib\site-packages\_pytest\main.py", line 325, in _main
+    config.hook.pytest_runtestloop(session=session)
+  File "C:\Users\мвидео\PycharmProjects\Appium-Selenium-Python\venv\lib\site-packages\pluggy\_hooks.py", line 493, in __call__
+    return self._hookexec(self.name, self._hookimpls, kwargs, firstresult)
+  File "C:\Users\мвидео\PycharmProjects\Appium-Selenium-Python\venv\lib\site-packages\pluggy\_manager.py", line 115, in _hookexec
+    return self._inner_hookexec(hook_name, methods, kwargs, firstresult)
+  File "C:\Users\мвидео\PycharmProjects\Appium-Selenium-Python\venv\lib\site-packages\pluggy\_callers.py", line 77, in _multicall
+    res = hook_impl.function(*args)
+  File "C:\Users\мвидео\PycharmProjects\Appium-Selenium-Python\venv\lib\site-packages\_pytest\main.py", line 350, in pytest_runtestloop
+    item.config.hook.pytest_runtest_protocol(item=item, nextitem=nextitem)
+  File "C:\Users\мвидео\PycharmProjects\Appium-Selenium-Python\venv\lib\site-packages\pluggy\_hooks.py", line 493, in __call__
+    return self._hookexec(self.name, self._hookimpls, kwargs, firstresult)
+  File "C:\Users\мвидео\PycharmProjects\Appium-Selenium-Python\venv\lib\site-packages\pluggy\_manager.py", line 115, in _hookexec
+    return self._inner_hookexec(hook_name, methods, kwargs, firstresult)
+  File "C:\Users\мвидео\PycharmProjects\Appium-Selenium-Python\venv\lib\site-packages\pluggy\_callers.py", line 77, in _multicall
+    res = hook_impl.function(*args)
+  File "C:\Users\мвидео\PycharmProjects\Appium-Selenium-Python\venv\lib\site-packages\_pytest\runner.py", line 114, in pytest_runtest_protocol
+    runtestprotocol(item, nextitem=nextitem)
+  File "C:\Users\мвидео\PycharmProjects\Appium-Selenium-Python\venv\lib\site-packages\_pytest\runner.py", line 133, in runtestprotocol
+    reports.append(call_and_report(item, "call", log))
+  File "C:\Users\мвидео\PycharmProjects\Appium-Selenium-Python\venv\lib\site-packages\_pytest\runner.py", line 222, in call_and_report
+    call = call_runtest_hook(item, when, **kwds)
+  File "C:\Users\мвидео\PycharmProjects\Appium-Selenium-Python\venv\lib\site-packages\_pytest\runner.py", line 261, in call_runtest_hook
+    return CallInfo.from_call(
+  File "C:\Users\мвидео\PycharmProjects\Appium-Selenium-Python\venv\lib\site-packages\_pytest\runner.py", line 341, in from_call
+    result: Optional[TResult] = func()
+  File "C:\Users\мвидео\PycharmProjects\Appium-Selenium-Python\venv\lib\site-packages\_pytest\runner.py", line 262, in <lambda>
+    lambda: ihook(item=item, **kwds), when=when, reraise=reraise
+  File "C:\Users\мвидео\PycharmProjects\Appium-Selenium-Python\venv\lib\site-packages\pluggy\_hooks.py", line 493, in __call__
+    return self._hookexec(self.name, self._hookimpls, kwargs, firstresult)
+  File "C:\Users\мвидео\PycharmProjects\Appium-Selenium-Python\venv\lib\site-packages\pluggy\_manager.py", line 115, in _hookexec
+    return self._inner_hookexec(hook_name, methods, kwargs, firstresult)
+  File "C:\Users\мвидео\PycharmProjects\Appium-Selenium-Python\venv\lib\site-packages\pluggy\_callers.py", line 77, in _multicall
+    res = hook_impl.function(*args)
+  File "C:\Users\мвидео\PycharmProjects\Appium-Selenium-Python\venv\lib\site-packages\_pytest\runner.py", line 169, in pytest_runtest_call
+    item.runtest()
+  File "C:\Users\мвидео\PycharmProjects\Appium-Selenium-Python\venv\lib\site-packages\_pytest\unittest.py", line 333, in runtest
+    self._testcase(result=self)  # type: ignore[arg-type]
+  File "C:\Users\мвидео\AppData\Local\Programs\Python\Python39\lib\unittest\case.py", line 651, in __call__
+    return self.run(*args, **kwds)
+  File "C:\Users\мвидео\AppData\Local\Programs\Python\Python39\lib\unittest\case.py", line 592, in run
+    self._callTestMethod(testMethod)
+  File "C:\Users\мвидео\AppData\Local\Programs\Python\Python39\lib\unittest\case.py", line 550, in _callTestMethod
+    method()
+  File "C:\Users\мвидео\PycharmProjects\Appium-Selenium-Python\SeleniumFramework\tests\TestContactForm.py", line 19, in test_enterDataInForm
+    self.cf.enterEmail()
+  File "C:\Users\мвидео\PycharmProjects\Appium-Selenium-Python\SeleniumFramework\pages\ContactFormPage.py", line 41, in enterEmail
+    self.sendText('example@email.com', self._enterEmail, 'id')
+  File "C:\Users\мвидео\PycharmProjects\Appium-Selenium-Python\SeleniumFramework\base\BasePage.py", line 95, in sendText
+    webElement = self.waitForElement(locatorValue, locatorType)
+  File "C:\Users\мвидео\PycharmProjects\Appium-Selenium-Python\SeleniumFramework\base\BasePage.py", line 74, in waitForElement
+    print_stack()
+  File "C:\Users\мвидео\AppData\Local\Programs\Python\Python39\lib\runpy.py", line 197, in _run_module_as_main
+    return _run_code(code, main_globals, None,
+  File "C:\Users\мвидео\AppData\Local\Programs\Python\Python39\lib\runpy.py", line 87, in _run_code
+    exec(code, run_globals)
+  File "C:\Users\мвидео\PycharmProjects\Appium-Selenium-Python\venv\Scripts\pytest.exe\__main__.py", line 7, in <module>
+    sys.exit(console_main())
+  File "C:\Users\мвидео\PycharmProjects\Appium-Selenium-Python\venv\lib\site-packages\_pytest\config\__init__.py", line 192, in console_main
+    code = main()
+  File "C:\Users\мвидео\PycharmProjects\Appium-Selenium-Python\venv\lib\site-packages\_pytest\config\__init__.py", line 169, in main
+    ret: Union[ExitCode, int] = config.hook.pytest_cmdline_main(
+  File "C:\Users\мвидео\PycharmProjects\Appium-Selenium-Python\venv\lib\site-packages\pluggy\_hooks.py", line 493, in __call__
+    return self._hookexec(self.name, self._hookimpls, kwargs, firstresult)
+  File "C:\Users\мвидео\PycharmProjects\Appium-Selenium-Python\venv\lib\site-packages\pluggy\_manager.py", line 115, in _hookexec
+    return self._inner_hookexec(hook_name, methods, kwargs, firstresult)
+  File "C:\Users\мвидео\PycharmProjects\Appium-Selenium-Python\venv\lib\site-packages\pluggy\_callers.py", line 77, in _multicall
+    res = hook_impl.function(*args)
+  File "C:\Users\мвидео\PycharmProjects\Appium-Selenium-Python\venv\lib\site-packages\_pytest\main.py", line 318, in pytest_cmdline_main
+    return wrap_session(config, _main)
+  File "C:\Users\мвидео\PycharmProjects\Appium-Selenium-Python\venv\lib\site-packages\_pytest\main.py", line 271, in wrap_session
+    session.exitstatus = doit(config, session) or 0
+  File "C:\Users\мвидео\PycharmProjects\Appium-Selenium-Python\venv\lib\site-packages\_pytest\main.py", line 325, in _main
+    config.hook.pytest_runtestloop(session=session)
+  File "C:\Users\мвидео\PycharmProjects\Appium-Selenium-Python\venv\lib\site-packages\pluggy\_hooks.py", line 493, in __call__
+    return self._hookexec(self.name, self._hookimpls, kwargs, firstresult)
+  File "C:\Users\мвидео\PycharmProjects\Appium-Selenium-Python\venv\lib\site-packages\pluggy\_manager.py", line 115, in _hookexec
+    return self._inner_hookexec(hook_name, methods, kwargs, firstresult)
+  File "C:\Users\мвидео\PycharmProjects\Appium-Selenium-Python\venv\lib\site-packages\pluggy\_callers.py", line 77, in _multicall
+    res = hook_impl.function(*args)
+  File "C:\Users\мвидео\PycharmProjects\Appium-Selenium-Python\venv\lib\site-packages\_pytest\main.py", line 350, in pytest_runtestloop
+    item.config.hook.pytest_runtest_protocol(item=item, nextitem=nextitem)
+  File "C:\Users\мвидео\PycharmProjects\Appium-Selenium-Python\venv\lib\site-packages\pluggy\_hooks.py", line 493, in __call__
+    return self._hookexec(self.name, self._hookimpls, kwargs, firstresult)
+  File "C:\Users\мвидео\PycharmProjects\Appium-Selenium-Python\venv\lib\site-packages\pluggy\_manager.py", line 115, in _hookexec
+    return self._inner_hookexec(hook_name, methods, kwargs, firstresult)
+  File "C:\Users\мвидео\PycharmProjects\Appium-Selenium-Python\venv\lib\site-packages\pluggy\_callers.py", line 77, in _multicall
+    res = hook_impl.function(*args)
+  File "C:\Users\мвидео\PycharmProjects\Appium-Selenium-Python\venv\lib\site-packages\_pytest\runner.py", line 114, in pytest_runtest_protocol
+    runtestprotocol(item, nextitem=nextitem)
+  File "C:\Users\мвидео\PycharmProjects\Appium-Selenium-Python\venv\lib\site-packages\_pytest\runner.py", line 133, in runtestprotocol
+    reports.append(call_and_report(item, "call", log))
+  File "C:\Users\мвидео\PycharmProjects\Appium-Selenium-Python\venv\lib\site-packages\_pytest\runner.py", line 222, in call_and_report
+    call = call_runtest_hook(item, when, **kwds)
+  File "C:\Users\мвидео\PycharmProjects\Appium-Selenium-Python\venv\lib\site-packages\_pytest\runner.py", line 261, in call_runtest_hook
+    return CallInfo.from_call(
+  File "C:\Users\мвидео\PycharmProjects\Appium-Selenium-Python\venv\lib\site-packages\_pytest\runner.py", line 341, in from_call
+    result: Optional[TResult] = func()
+  File "C:\Users\мвидео\PycharmProjects\Appium-Selenium-Python\venv\lib\site-packages\_pytest\runner.py", line 262, in <lambda>
+    lambda: ihook(item=item, **kwds), when=when, reraise=reraise
+  File "C:\Users\мвидео\PycharmProjects\Appium-Selenium-Python\venv\lib\site-packages\pluggy\_hooks.py", line 493, in __call__
+    return self._hookexec(self.name, self._hookimpls, kwargs, firstresult)
+  File "C:\Users\мвидео\PycharmProjects\Appium-Selenium-Python\venv\lib\site-packages\pluggy\_manager.py", line 115, in _hookexec
+    return self._inner_hookexec(hook_name, methods, kwargs, firstresult)
+  File "C:\Users\мвидео\PycharmProjects\Appium-Selenium-Python\venv\lib\site-packages\pluggy\_callers.py", line 77, in _multicall
+    res = hook_impl.function(*args)
+  File "C:\Users\мвидео\PycharmProjects\Appium-Selenium-Python\venv\lib\site-packages\_pytest\runner.py", line 169, in pytest_runtest_call
+    item.runtest()
+  File "C:\Users\мвидео\PycharmProjects\Appium-Selenium-Python\venv\lib\site-packages\_pytest\unittest.py", line 333, in runtest
+    self._testcase(result=self)  # type: ignore[arg-type]
+  File "C:\Users\мвидео\AppData\Local\Programs\Python\Python39\lib\unittest\case.py", line 651, in __call__
+    return self.run(*args, **kwds)
+  File "C:\Users\мвидео\AppData\Local\Programs\Python\Python39\lib\unittest\case.py", line 592, in run
+    self._callTestMethod(testMethod)
+  File "C:\Users\мвидео\AppData\Local\Programs\Python\Python39\lib\unittest\case.py", line 550, in _callTestMethod
+    method()
+  File "C:\Users\мвидео\PycharmProjects\Appium-Selenium-Python\SeleniumFramework\tests\TestContactForm.py", line 19, in test_enterDataInForm
+    self.cf.enterEmail()
+  File "C:\Users\мвидео\PycharmProjects\Appium-Selenium-Python\SeleniumFramework\pages\ContactFormPage.py", line 41, in enterEmail
+    self.sendText('example@email.com', self._enterEmail, 'id')
+  File "C:\Users\мвидео\PycharmProjects\Appium-Selenium-Python\SeleniumFramework\base\BasePage.py", line 103, in sendText
+    print_stack()
