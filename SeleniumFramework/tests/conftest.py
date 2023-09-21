@@ -1,6 +1,7 @@
 import pytest
 from SeleniumFramework.base.BasePage import BasePage
 from SeleniumFramework.base.DriverClass import WebDriverClass
+import SeleniumFramework.config.DeviceConfig as dc
 
 
 @pytest.fixture(scope='class')
@@ -10,7 +11,8 @@ def setup_driver(request):
     """
     print('Initializing driver...')
     driver_instance = WebDriverClass()
-    driver = driver_instance.getWebDriver('Chrome')
+    # driver = driver_instance.getWebDriver('Chrome')
+    driver = driver_instance.cloudDriver(dc.platform_name, dc.browser_version, dc.browser_name)
     bp = BasePage(driver)
     bp.launchWebPage('http://www.dummypoint.com/', 'General Dashboard — DummyPoint')
     if request.cls is not None:
